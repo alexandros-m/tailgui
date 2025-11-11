@@ -1,10 +1,6 @@
 # TailGUI
 Unofficial Tailscale GUI for linux, written in PyQt
 
-# TailGUI
-
-A graphical user interface for managing Tailscale on Linux systems.
-
 ![working screenshot](img/screenshot.png)
 
 ## Features
