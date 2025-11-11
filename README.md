@@ -49,7 +49,7 @@ source venv/bin/activate
 5. Install pip dependencies
 
 ```bash
-pip install PyQt6
+pip install -r requirements.txt
 ```
 
 6. Make the script executable
